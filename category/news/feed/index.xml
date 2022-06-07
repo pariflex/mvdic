@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; Maa Vaishno Devi Inter College</title>
+	<atom:link href="https://pariflex.github.io/mvdic/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pariflex.github.io/mvdic/</link>
+	<description>Inter College</description>
+	<lastBuildDate>Thu, 26 May 2022 20:23:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://pariflex.github.io/mvdic/wp-content/uploads/2022/06/cropped-MVDIC-Logo-32x32.webp</url>
+	<title>News &#8211; Maa Vaishno Devi Inter College</title>
+	<link>https://pariflex.github.io/mvdic/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Admission open for 2022</title>
+		<link>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/</link>
+					<comments>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/#respond</comments>
+		
+		<dc:creator><![CDATA[Shree Swamiji Maharaj Group of College]]></dc:creator>
+		<pubDate>Thu, 05 Aug 2021 04:12:26 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Nursing]]></category>
+		<guid isPermaLink="false">https://ssmdatia.com/?p=79</guid>
+
+					<description><![CDATA[We are glad to inform all aspirant that want to admission in class up 12 they can online registration for new admission session 2022-2023.]]></description>
+										<content:encoded><![CDATA[
+<p>We are glad to inform all aspirant that want to admission in class up 12 they can online registration for new admission session 2022-2023.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
