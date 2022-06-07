@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Maa Vaishno Devi Inter College</title>
-	<atom:link href="https://pariflex.github.io/mvdic/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pariflex.github.io/mvdic/</link>
+	<atom:link href="https://mvdic.in/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mvdic.in/</link>
 	<description>Inter College</description>
 	<lastBuildDate>Fri, 03 Jun 2022 06:26:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://pariflex.github.io/mvdic/wp-content/uploads/2022/06/cropped-MVDIC-Logo-32x32.webp</url>
+	<url>https://mvdic.in/wp-content/uploads/2022/06/cropped-MVDIC-Logo-60x60.webp</url>
 	<title>Uncategorized &#8211; Maa Vaishno Devi Inter College</title>
-	<link>https://pariflex.github.io/mvdic/</link>
+	<link>https://mvdic.in/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://pariflex.github.io/mvdic/hello-world/</link>
-					<comments>https://pariflex.github.io/mvdic/hello-world/#comments</comments>
+		<link>https://mvdic.in/hello-world/</link>
+					<comments>https://mvdic.in/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Shree Swamiji Maharaj Group of College]]></dc:creator>
 		<pubDate>Fri, 03 Jun 2022 06:26:17 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pariflex.github.io/mvdic/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mvdic.in/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

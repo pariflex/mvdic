@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News &#8211; Maa Vaishno Devi Inter College</title>
-	<atom:link href="https://pariflex.github.io/mvdic/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pariflex.github.io/mvdic/</link>
+	<atom:link href="https://mvdic.in/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mvdic.in/</link>
 	<description>Inter College</description>
 	<lastBuildDate>Thu, 26 May 2022 20:23:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://pariflex.github.io/mvdic/wp-content/uploads/2022/06/cropped-MVDIC-Logo-32x32.webp</url>
+	<url>https://mvdic.in/wp-content/uploads/2022/06/cropped-MVDIC-Logo-60x60.webp</url>
 	<title>News &#8211; Maa Vaishno Devi Inter College</title>
-	<link>https://pariflex.github.io/mvdic/</link>
+	<link>https://mvdic.in/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Admission open for 2022</title>
-		<link>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/</link>
-					<comments>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/#respond</comments>
+		<link>https://mvdic.in/admission-open-for-2021-ssm-group-of-college/</link>
+					<comments>https://mvdic.in/admission-open-for-2021-ssm-group-of-college/#respond</comments>
 		
 		<dc:creator><![CDATA[Shree Swamiji Maharaj Group of College]]></dc:creator>
 		<pubDate>Thu, 05 Aug 2021 04:12:26 +0000</pubDate>
@@ -45,7 +45,7 @@
 <p>We are glad to inform all aspirant that want to admission in class up 12 they can online registration for new admission session 2022-2023.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pariflex.github.io/mvdic/admission-open-for-2021-ssm-group-of-college/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mvdic.in/admission-open-for-2021-ssm-group-of-college/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

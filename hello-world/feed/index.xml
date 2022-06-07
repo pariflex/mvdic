@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://pariflex.github.io/mvdic/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pariflex.github.io/mvdic/hello-world/</link>
+	<atom:link href="https://mvdic.in/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mvdic.in/hello-world/</link>
 	<description>Inter College</description>
 	<lastBuildDate>Fri, 03 Jun 2022 06:26:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://pariflex.github.io/mvdic/hello-world/#comment-61</link>
+		<link>https://mvdic.in/hello-world/#comment-61</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 01 Jun 2022 13:37:11 +0000</pubDate>
